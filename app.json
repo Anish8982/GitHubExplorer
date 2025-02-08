@@ -2,6 +2,7 @@
   "expo": {
     "name": "GitHubExplorer",
     "slug": "GitHubExplorer",
+    "owner": "anish_8982",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -41,9 +42,6 @@
     "extra": {
       "router": {
         "origin": false
-      },
-      "eas": {
-        "projectId": "cb045adc-28f0-4784-b6eb-affe3a62d4e5"
       }
     }
   }
